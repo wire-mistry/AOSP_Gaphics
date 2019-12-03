@@ -1,1 +1,13 @@
-<mxfile host="www.draw.io" modified="2019-12-03T10:13:43.132Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36" version="12.3.5" etag="fUhvjSRf50XDlYVGSzJH" type="github"><diagram id="gzc1fXgGK9Xh2YCLqEI3">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="www.draw.io" modified="2019-12-03T10:22:48.120Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36" etag="sLod1x7phrZvGijsdEtu" version="12.3.5" type="github" pages="1">
+  <diagram id="gzc1fXgGK9Xh2YCLqEI3" name="The Pretext">
+    <mxGraphModel dx="1102" dy="533" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0"/>
+        <mxCell id="1" parent="0"/>
+        <mxCell id="4iyLbNcxx3MA4uBL4IOl-1" value="Pre-Texts:&amp;nbsp;&lt;br&gt;Frame Buffer: The Buffer which is displayed on display by the display hardware to manage this buffer usually frame buffer hardware are written.&lt;br&gt;&lt;br&gt;Display Control: The hardware unit which is responsible for controlling the display funcitons and more importantly generating the vertical sync and horizontal sync signals and these days mostly part of GPU. This is also responsible for video memory managment&lt;br&gt;&lt;br&gt;Common Colour Space schemes: RGB-CYMK&lt;br&gt;&lt;br&gt;EGL: An API interface b/w the rendering APIs like OpenGL or OpenVG and underlying native platform windowing systems.&lt;br&gt;&lt;br&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="20" y="20" width="380" height="240" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
